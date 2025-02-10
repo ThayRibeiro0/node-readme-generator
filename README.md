@@ -1,9 +1,9 @@
-# README Generator
+# 🚀 README Generator
 
-## Description
+## 📖 Description
 This project helps you quickly create a README file for your project by answering a few questions in the terminal.
 
-## Installation
+## 🛠️Installation
 1. Clone the repository:
     ```
     git clone https://github.com/YourGitHubUsername/node-readme-generator.git
@@ -17,7 +17,7 @@ This project helps you quickly create a README file for your project by answerin
     npm install
     ```
 
-## Usage
+## 🚀Usage
 1. After installation, run the project with:
     ```
     node index.js
@@ -25,7 +25,10 @@ This project helps you quickly create a README file for your project by answerin
 2. Answer the questions about your project.
 3. A `README.md` file will be created for you!
 
-## Contributing
+### 🎥 Video Tutorial
+[![README Generator Video Tutorial](https://www.loom.com/share/dc5c5fd971c84740b7eea59d98151ac3?sid=49943ffa-b5bd-4d88-b3bb-1fb059577c1a)](https://www.loom.com/share/dc5c5fd971c84740b7eea59d98151ac3?sid=49943ffa-b5bd-4d88-b3bb-1fb059577c1a)
+
+## 🤝 Contributing
 To help improve this project, you can:
 1. Fork this repo.
 2. Create a new branch (`git checkout -b feature-name`).
@@ -33,13 +36,13 @@ To help improve this project, you can:
 4. Push to the branch (`git push origin feature-name`).
 5. Create a Pull Request.
 
-## Tests
+## ✅ Tests
 To test, just run `node index.js` and check if the `README.md` file was created.
 
-## Questions
+## ⁉️ Questions
 If you need help:
   - GitHub: [ThayRibeiro0](https://github.com/ThayRibeiro0)
   - Email: thaysmoiaribeiro@gmail.com
 
-## License
+## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
