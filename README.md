@@ -26,7 +26,9 @@ This project helps you quickly create a README file for your project by answerin
 3. A `README.md` file will be created for you!
 
 ### 🎥 Video Tutorial
-[![README Generator Video Tutorial](https://www.loom.com/share/dc5c5fd971c84740b7eea59d98151ac3?sid=49943ffa-b5bd-4d88-b3bb-1fb059577c1a)](https://www.loom.com/share/dc5c5fd971c84740b7eea59d98151ac3?sid=49943ffa-b5bd-4d88-b3bb-1fb059577c1a)
+<a href="https://www.loom.com/share/dc5c5fd971c84740b7eea59d98151ac3?sid=49943ffa-b5bd-4d88-b3bb-1fb059577c1a">
+    <img src="Readme-generator.png" alt="README Generator Video Tutorial" width="400">
+</a>
 
 ## 🤝 Contributing
 To help improve this project, you can:
